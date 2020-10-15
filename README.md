@@ -15,7 +15,6 @@
 
 - 🧠 **I am constantly evolving.**
 
-**Background in:** Foreign Trade, Logistics, PowerBI, Pentaho Data Integration, AWS and Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fclemos)
