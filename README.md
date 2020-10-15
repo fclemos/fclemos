@@ -1,11 +1,11 @@
 ### Fernanda Lemos (Data Analyst) 👋
 
-<sub>*Data Analyst - Self-employed*</sub>
+<sub>*Lead Data Analyst - Self-employed*</sub>
 
-[![author](https://github.com/fclemos/DS_Portfolio/banner.png)](https://www.linkedin.com/in/fclemos) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-darkblue.svg?style=flat)](https://github.com/fclemos) [![](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![author](https://img.shields.io/badge/author-fclemos-red.svg)](https://www.linkedin.com/in/fclemos) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 <p align="center">
-  <img src="https://github.com/fclemos/DS_Portfolio/banner.png" >
+  <img src="banner.png" >
 </p>
 
 
@@ -15,6 +15,20 @@
 
 - 🧠 **I am constantly evolving.**
 
+**Background in:** Foreign Trade, Logistics, PowerBI, Pentaho Data Integration, AWS and Python.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/fclemos)
+* [Medium](https://medium.com/@fclemos)
+
+
+## Projetos:
+Veja os artigos e tutoriais publicados por Fernanda:
+
+* **Indústria 4.0 e os desafios no setor Logístico:** https://bit.ly/2Zx4Eew
+* **Abordagem sobre Administração e S&OP (Sales and Operations Planning):** https://bit.ly/3hmgFcV
+
+---
 
 
 
