@@ -11,7 +11,7 @@
 
 - 🎓 **I am a Foreign Trade professional that become a Data Analyst and Data Scientist.**
 
-- 💻 **Background em: Python, Power BI, AWS e Pentaho.**
+- 💻 **Background in: Power BI, Power Automate, SQL, Python, AWS e Pentaho.**
 
 - 🧠 **I am constantly evolving.**
 
